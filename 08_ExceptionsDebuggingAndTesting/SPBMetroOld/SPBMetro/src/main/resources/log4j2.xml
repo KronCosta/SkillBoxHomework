@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configuration status="WARN">
+    <appenders>
+        <File name="FileSearch" fileName="logs/search.log">
+            <PatternLayout pattern="%d{yyyy-MM-dd HH:mm:ss.SSS} [%t] %-5level %logger{36} - %msg%n"/>
+            <Filters>
+                <MarkerFilter marker = "input_history"/>
+            </Filters>
+        </File>
+
+        <File name="FileErrors" fileName="logs/input_errors.log">
+            <PatternLayout pattern="%d{yyyy-MM-dd HH:mm:ss.SSS} [%t] %-5level %logger{36} - %msg%n"/>
+            <Filters>
+                <MarkerFilter marker = "invalid_Station"/>
+            </Filters>
+        </File>
+
+<!--        <File name="FileExceptions" fileName="logs/exceptions.log">-->
+<!--            <PatternLayout pattern="%d{yyyy-MM-dd HH:mm:ss.SSS} [%t] %-5level %logger{36} - %msg%n"/>-->
+<!--            <Filters>-->
+<!--                <ThresholdFilter level="FATAL" onMatch="DENY" onMismatch="NEUTRAL"/>-->
+<!--            </Filters>-->
+<!--        </File>-->
+
+    </appenders>
+    <loggers>
+        <root level="info">
+            <appender-ref ref="FileSearch" />
+            <appender-ref ref="FileErrors" />
+<!--            <appender-ref ref="FileExceptions" />-->
+        </root>
+    </loggers>
+</configuration>

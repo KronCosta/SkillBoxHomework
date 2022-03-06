@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/04_NumbersStringsAndDates/4.2 minMAXvalue/4.2 minMAXvalue.iml" filepath="$PROJECT_DIR$/04_NumbersStringsAndDates/4.2 minMAXvalue/4.2 minMAXvalue.iml" />
+      <module fileurl="file://$PROJECT_DIR$/04_NumbersStringsAndDates/GeometryCalculator/4.3 GeometryCalculator.iml" filepath="$PROJECT_DIR$/04_NumbersStringsAndDates/GeometryCalculator/4.3 GeometryCalculator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/03_ObjectsAndClasses/Airport/Airport.iml" filepath="$PROJECT_DIR$/03_ObjectsAndClasses/Airport/Airport.iml" />
+      <module fileurl="file://$PROJECT_DIR$/03_ObjectsAndClasses/Cat/Cat.iml" filepath="$PROJECT_DIR$/03_ObjectsAndClasses/Cat/Cat.iml" />
+      <module fileurl="file://$PROJECT_DIR$/08_ExceptionsDebuggingAndTesting/ConsoleCustomerList/ConsoleCustomerList.iml" filepath="$PROJECT_DIR$/08_ExceptionsDebuggingAndTesting/ConsoleCustomerList/ConsoleCustomerList.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Diamonds/Diamonds.iml" filepath="$PROJECT_DIR$/Diamonds/Diamonds.iml" />
+      <module fileurl="file://$PROJECT_DIR$/04_NumbersStringsAndDates/GeometryCalculator/GeometryCalculator/GeometryCalculator.iml" filepath="$PROJECT_DIR$/04_NumbersStringsAndDates/GeometryCalculator/GeometryCalculator/GeometryCalculator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/04_NumbersStringsAndDates/GeometryCalculator/GeometryCalculator1.iml" filepath="$PROJECT_DIR$/04_NumbersStringsAndDates/GeometryCalculator/GeometryCalculator1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/04_NumbersStringsAndDates/IntegerExperiments/IntegerExperiments.iml" filepath="$PROJECT_DIR$/04_NumbersStringsAndDates/IntegerExperiments/IntegerExperiments.iml" />
+      <module fileurl="file://$PROJECT_DIR$/07_AdvancedOOPFeatures/LambdaExpressions/LambdaExpressions.iml" filepath="$PROJECT_DIR$/07_AdvancedOOPFeatures/LambdaExpressions/LambdaExpressions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LambdaExpressions/LambdaExpressions1.iml" filepath="$PROJECT_DIR$/LambdaExpressions/LambdaExpressions1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/03_ObjectsAndClasses/Airport/Lib/Lib.iml" filepath="$PROJECT_DIR$/03_ObjectsAndClasses/Airport/Lib/Lib.iml" />
+      <module fileurl="file://$PROJECT_DIR$/NameScanner/NameScanner.iml" filepath="$PROJECT_DIR$/NameScanner/NameScanner.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ReplaceDiamonds/ReplaceDiamonds.iml" filepath="$PROJECT_DIR$/ReplaceDiamonds/ReplaceDiamonds.iml" />
+      <module fileurl="file://$PROJECT_DIR$/03_ObjectsAndClasses/RoadController/RoadController.iml" filepath="$PROJECT_DIR$/03_ObjectsAndClasses/RoadController/RoadController.iml" />
+      <module fileurl="file://$PROJECT_DIR$/08_ExceptionsDebuggingAndTesting/SPBMetro/SPBMetro/SPBMetro.iml" filepath="$PROJECT_DIR$/08_ExceptionsDebuggingAndTesting/SPBMetro/SPBMetro/SPBMetro.iml" />
+      <module fileurl="file://$PROJECT_DIR$/08_ExceptionsDebuggingAndTesting/Metro/SPBMetro/SPBMetro1.iml" filepath="$PROJECT_DIR$/08_ExceptionsDebuggingAndTesting/Metro/SPBMetro/SPBMetro1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/08_ExceptionsDebuggingAndTesting/SPBMetro/SPBMetroExodus.iml" filepath="$PROJECT_DIR$/08_ExceptionsDebuggingAndTesting/SPBMetro/SPBMetroExodus.iml" />
+      <module fileurl="file://$PROJECT_DIR$/04_NumbersStringsAndDates/StringExperiments/StringExperiments.iml" filepath="$PROJECT_DIR$/04_NumbersStringsAndDates/StringExperiments/StringExperiments.iml" />
+      <module fileurl="file://$PROJECT_DIR$/abCode/abCode.iml" filepath="$PROJECT_DIR$/abCode/abCode.iml" />
+      <module fileurl="file://$PROJECT_DIR$/goomanitarka/goomanitarka.iml" filepath="$PROJECT_DIR$/goomanitarka/goomanitarka.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/java_basics.iml" filepath="$PROJECT_DIR$/.idea/java_basics.iml" />
+      <module fileurl="file://$PROJECT_DIR$/textSplitter/textSplitter.iml" filepath="$PROJECT_DIR$/textSplitter/textSplitter.iml" />
+    </modules>
+  </component>
+</project>
